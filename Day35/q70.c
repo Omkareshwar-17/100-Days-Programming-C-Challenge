@@ -1,4 +1,4 @@
-// Write a program to rotate an array to the right by k positions.
+// Write a program to rotate an array to the right by k positions 
 #include <stdio.h>
 
 int main() {
